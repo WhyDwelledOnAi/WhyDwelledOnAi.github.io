@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>WhyDwelledOnAi&#39;s Blogs</title>
+  
+  
+  <link href="https://whydwelledonai.github.io/project/atom.xml" rel="self"/>
+  
+  <link href="https://whydwelledonai.github.io/project/"/>
+  <updated>2022-01-21T10:42:22.836Z</updated>
+  <id>https://whydwelledonai.github.io/project/</id>
+  
+  <author>
+    <name>Haoyu Wang</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>【计量经济学】导论</title>
+    <link href="https://whydwelledonai.github.io/project/2022/01/21/%E3%80%90%E8%AE%A1%E9%87%8F%E7%BB%8F%E6%B5%8E%E5%AD%A6%E3%80%91%E7%AE%80%E5%8D%95%E7%BA%BF%E6%80%A7%E5%9B%9E%E5%BD%92%E6%A8%A1%E5%9E%8B/"/>
+    <id>https://whydwelledonai.github.io/project/2022/01/21/%E3%80%90%E8%AE%A1%E9%87%8F%E7%BB%8F%E6%B5%8E%E5%AD%A6%E3%80%91%E7%AE%80%E5%8D%95%E7%BA%BF%E6%80%A7%E5%9B%9E%E5%BD%92%E6%A8%A1%E5%9E%8B/</id>
+    <published>2022-01-21T03:00:00.000Z</published>
+    <updated>2022-01-21T10:42:22.836Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="回归分析与回归函数"><a href="#回归分析与回归函数" class="headerlink" title="回归分析与回归函数"></a>回归分析与回归函数</h1><h2 id="相关分析与回归分析"><a href="#相关分析与回归分析" class="headerlink" title="相关分析与回归分析"></a>相关分析与回归分析</h2><ol><li>经济变量间的相互关系分为3类: 函数关系, 相关关系, 没关系</li><li>关系的描述方法: 图表</li><li>相关关系又分为线性相关和非线性相关</li><li>回归分析</li></ol>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;回归分析与回归函数&quot;&gt;&lt;a href=&quot;#回归分析与回归函数&quot; class=&quot;headerlink&quot; title=&quot;回归分析与回归函数&quot;&gt;&lt;/a&gt;回归分析与回归函数&lt;/h1&gt;&lt;h2 id=&quot;相关分析与回归分析&quot;&gt;&lt;a href=&quot;#相关分析与回归分析&quot; class</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>【计量经济学】导论</title>
+    <link href="https://whydwelledonai.github.io/project/2022/01/21/%E3%80%90%E8%AE%A1%E9%87%8F%E7%BB%8F%E6%B5%8E%E5%AD%A6%E3%80%91%E5%AF%BC%E8%AE%BA/"/>
+    <id>https://whydwelledonai.github.io/project/2022/01/21/%E3%80%90%E8%AE%A1%E9%87%8F%E7%BB%8F%E6%B5%8E%E5%AD%A6%E3%80%91%E5%AF%BC%E8%AE%BA/</id>
+    <published>2022-01-21T02:00:00.000Z</published>
+    <updated>2022-01-21T10:35:09.507Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="应具备的预备知识"><a href="#应具备的预备知识" class="headerlink" title="应具备的预备知识"></a>应具备的预备知识</h1><ol><li>宏观经济学</li><li>微观经济学</li><li>线性代数</li><li>概率论与数理统计</li></ol><h1 id="什么是计量经济学"><a href="#什么是计量经济学" class="headerlink" title="什么是计量经济学"></a>什么是计量经济学</h1><ol><li>提出所研究的经济问题及度量方式(如GDP,销售量)</li><li>分析主要影响因素</li><li>分析各种影响因素与所研究经济现象的相互关系</li><li>确定所研究的经济问题与各种影响因素间的数量规律</li><li>分析和检验所得数量结论的可靠性</li><li>进行检验和预测</li></ol><h1 id="计量经济学的产生与发展"><a href="#计量经济学的产生与发展" class="headerlink" title="计量经济学的产生与发展"></a>计量经济学的产生与发展</h1><ol><li>1926年挪威经济学家弗瑞希发明了”计量经济学”一词</li><li>1930年成立的计量经济学会标志着这门学科的产生</li></ol><h1 id="计量经济学的研究方法"><a href="#计量经济学的研究方法" class="headerlink" title="计量经济学的研究方法"></a>计量经济学的研究方法</h1><ol><li>选择变量和数学关系式————模型设定<ol><li>抽取主要因素,舍弃其他因素</li><li>选择适当的数学关系式近似、简化的表达</li><li>要保证方程中变量的可观测性</li></ol></li><li>确定变量间的数量关系————估计参数</li><li>检验所得结论的可靠性————模型检验<ol><li>经济意义检验————是否符合经济理论</li><li>统计推断检验————是否具有偶然性</li><li>计量经济学检验———— 是否符合计量经济学的基本假设</li><li>预测检验————与实际作比较</li></ol></li><li>作经济分析和经济预测————模型应用<ol><li>结构分析</li><li>政策评价</li><li>经济预测</li></ol></li></ol><p><img src="%E8%AE%A1%E9%87%8F%E7%BB%8F%E6%B5%8E%E5%AD%A6%E7%9A%84%E7%A0%94%E7%A9%B6%E8%BF%87%E7%A8%8B.png"></p><h1 id="变量、参数、数据与模型"><a href="#变量、参数、数据与模型" class="headerlink" title="变量、参数、数据与模型"></a>变量、参数、数据与模型</h1><h2 id="计量经济模型中的变量"><a href="#计量经济模型中的变量" class="headerlink" title="计量经济模型中的变量"></a>计量经济模型中的变量</h2><ol><li>解释变量与被解释变量</li><li>内生变量&lt;-影响–外生变量<h2 id="参数的估计方法"><a href="#参数的估计方法" class="headerlink" title="参数的估计方法"></a>参数的估计方法</h2></li><li>单一方程模型<ol><li>普通最小二乘法</li><li>极大似然估计法</li></ol></li><li>联立方程模型<ol><li>二段最小二乘法</li><li>三段最小二乘法<h2 id="计量经济学中应用的数据"><a href="#计量经济学中应用的数据" class="headerlink" title="计量经济学中应用的数据"></a>计量经济学中应用的数据</h2><h3 id="数据类型"><a href="#数据类型" class="headerlink" title="数据类型"></a>数据类型</h3></li></ol></li><li>时间序列数据</li><li>截面数据</li><li>混合数据(面板数据)</li><li>虚拟变量数据<br>注意: 数据要保证真实性、可比性！<h2 id="计量经济模型的建立"><a href="#计量经济模型的建立" class="headerlink" title="计量经济模型的建立"></a>计量经济模型的建立</h2></li></ol>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;应具备的预备知识&quot;&gt;&lt;a href=&quot;#应具备的预备知识&quot; class=&quot;headerlink&quot; title=&quot;应具备的预备知识&quot;&gt;&lt;/a&gt;应具备的预备知识&lt;/h1&gt;&lt;ol&gt;
+&lt;li&gt;宏观经济学&lt;/li&gt;
+&lt;li&gt;微观经济学&lt;/li&gt;
+&lt;li&gt;线性代数&lt;/li&gt;
+</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>我的第一篇博客</title>
+    <link href="https://whydwelledonai.github.io/project/2022/01/20/MyFirstBlog/"/>
+    <id>https://whydwelledonai.github.io/project/2022/01/20/MyFirstBlog/</id>
+    <published>2022-01-20T12:18:00.000Z</published>
+    <updated>2022-01-20T12:48:19.155Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="写在前面"><a href="#写在前面" class="headerlink" title="写在前面"></a>写在前面</h2><h2 id="教育和工作经历"><a href="#教育和工作经历" class="headerlink" title="教育和工作经历"></a>教育和工作经历</h2><table><thead><tr><th align="center">时间</th><th align="center">单位</th></tr></thead><tbody><tr><td align="center">2008.9~2014.6</td><td align="center">新疆师范大学附属中学(北校区)</td></tr><tr><td align="center">2014.9~2017.6</td><td align="center">乌鲁木齐市外国语学校第十二中学</td></tr><tr><td align="center">2017.9~2020.6</td><td align="center">新疆生产建设兵团第二中学</td></tr><tr><td align="center">2020.9~2021.7</td><td align="center">中国人民大学明理书院</td></tr><tr><td align="center">2021.8~</td><td align="center">中国人民大学高瓴人工智能学院</td></tr></tbody></table><h2 id="联系方式"><a href="#联系方式" class="headerlink" title="联系方式"></a>联系方式</h2><table><thead><tr><th align="center">途径</th><th align="center">号码</th></tr></thead><tbody><tr><td align="center">电子邮箱</td><td align="center"><a href="mailto:&#x32;&#x30;&#x32;&#x30;&#x32;&#x30;&#50;&#x38;&#x31;&#x37;&#x40;&#x72;&#117;&#x63;&#46;&#101;&#x64;&#x75;&#x2e;&#x63;&#x6e;">&#x32;&#x30;&#x32;&#x30;&#x32;&#x30;&#50;&#x38;&#x31;&#x37;&#x40;&#x72;&#117;&#x63;&#46;&#101;&#x64;&#x75;&#x2e;&#x63;&#x6e;</a></td></tr><tr><td align="center">qq</td><td align="center">2939899322(平生浅尝)</td></tr><tr><td align="center">微信</td><td align="center">why2939899322(平生浅尝)</td></tr><tr><td align="center">知乎</td><td align="center">平生浅尝</td></tr><tr><td align="center">bilibili</td><td align="center">平生浅尝</td></tr></tbody></table>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;写在前面&quot;&gt;&lt;a href=&quot;#写在前面&quot; class=&quot;headerlink&quot; title=&quot;写在前面&quot;&gt;&lt;/a&gt;写在前面&lt;/h2&gt;&lt;h2 id=&quot;教育和工作经历&quot;&gt;&lt;a href=&quot;#教育和工作经历&quot; class=&quot;headerlink&quot; title=&quot;教育和</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
